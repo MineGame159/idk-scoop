@@ -5,4 +5,4 @@
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add <bucketname> https://github.com/MineGame159/idk-scoop`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add idk-scoop https://github.com/MineGame159/idk-scoop`. To install, do `scoop install <manifest>`.
